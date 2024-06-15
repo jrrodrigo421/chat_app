@@ -3,6 +3,6 @@ import Image from "next/image";
 
 export default function Settings() {
   return <h1>
-    Pagina do usuárioaaaa
+    Pagina de configuração
   </h1>
 }
